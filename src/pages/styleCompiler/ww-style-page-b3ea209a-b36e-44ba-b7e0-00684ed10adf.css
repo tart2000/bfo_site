@@ -53,6 +53,13 @@
         flex-flow: column;
         align-items: center;
       }
+      .ww-s-d1 {
+        background-image: url("/images/625669d3-0b73-422b-9ca9-6b2bb5559d7f.jpeg?_wwcv=4");
+        background-position: center center;
+        background-size: contain;
+        background-repeat: repeat;
+        background-attachment: scroll;
+      }
       .ww-s-d1 > .ww-section-element {
         --ww-section-root-auto-align: center;
         --ww-section-root-auto-width: 100%;
@@ -76,6 +83,13 @@
           justify-content: flex-start;
           align-items: stretch;
         }
+      }
+      .ww-s-d2 {
+        background-image: url("/images/625669d3-0b73-422b-9ca9-6b2bb5559d7f.jpeg?_wwcv=4");
+        background-position: center center;
+        background-size: contain;
+        background-repeat: repeat;
+        background-attachment: scroll;
       }
       .ww-s-d2 > .ww-section-element {
         --ww-section-root-auto-align: center;
@@ -519,7 +533,7 @@
         width: 100%;
         height: unset;
         aspect-ratio: 2;
-        background-image: url("/images/marita-mones-Dou2Hef67NA-unsplash.jpg?_wwcv=3");
+        background-image: url("/images/marita-mones-Dou2Hef67NA-unsplash.jpg?_wwcv=4");
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
