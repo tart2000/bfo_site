@@ -1,0 +1,22 @@
+{
+  "tables": {
+    "public.Offres": {
+      "schema": "public",
+      "name": "Offres",
+      "columns": {
+        "id": {
+          "type": "uuid"
+        },
+        "name": {
+          "type": "text"
+        },
+        "createdAt": {
+          "type": "timestamp without time zone"
+        },
+        "updatedAt": {
+          "type": "timestamp without time zone"
+        }
+      }
+    }
+  }
+}

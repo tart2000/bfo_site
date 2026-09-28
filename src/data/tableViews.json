@@ -1,0 +1,17 @@
+{
+  "4387a5c3-c4ba-4967-be67-559faeb23481": {
+    "id": "4387a5c3-c4ba-4967-be67-559faeb23481",
+    "tableId": null,
+    "parameters": [],
+    "security": {},
+    "config": {
+      "sort": [],
+      "table": "Offres",
+      "columns": "*",
+      "filters": {
+        "link": "$and",
+        "conditions": []
+      }
+    }
+  }
+}
